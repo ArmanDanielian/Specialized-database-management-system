@@ -1,0 +1,5 @@
+Car:{mazeratti,3000,red}
+Car:{asdad,555,asda}
+Car:{ADD Car,200,asda}
+Car:{bmw,273,red}
+Car:{honda,245,silver}

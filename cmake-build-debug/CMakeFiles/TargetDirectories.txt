@@ -1,0 +1,3 @@
+C:/Users/arman/kursayin/DateBase_Implementation/cmake-build-debug/CMakeFiles/DateBase_Implementation.dir
+C:/Users/arman/kursayin/DateBase_Implementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/kursayin/DateBase_Implementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

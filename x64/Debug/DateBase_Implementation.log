@@ -1,0 +1,3 @@
+﻿  DateBase.cpp
+D:\Vardan files\VisualStudio_workspace\DateBase_Implementation\DateBase.cpp(134): warning C4715: 'get_file_lines_counter': not all control paths return a value
+  DateBase_Implementation.vcxproj -> D:\Vardan files\VisualStudio_workspace\DateBase_Implementation\x64\Debug\DateBase_Implementation.exe

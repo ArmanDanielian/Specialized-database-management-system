@@ -1,0 +1,9 @@
+# ninja log v5
+23	1254	6752846561021415	CMakeFiles/DateBase_Implementation.dir/Car.cpp.obj	24559fb96aee5713
+32	1258	6752846561016417	CMakeFiles/DateBase_Implementation.dir/Engine.cpp.obj	39148c27dccb300
+1	1285	6752846561355348	CMakeFiles/DateBase_Implementation.dir/DateBase.cpp.obj	ca1cb41e724eadd6
+1286	1530	6752846563661252	DateBase_Implementation.exe	e1fe300d7a5087f5
+35	1781	6758869581686381	CMakeFiles/DateBase_Implementation.dir/DateBase.cpp.obj	ca1cb41e724eadd6
+1783	2773	6758869591478250	DateBase_Implementation.exe	e1fe300d7a5087f5
+3	1660	6758998357725165	CMakeFiles/DateBase_Implementation.dir/DateBase.cpp.obj	ca1cb41e724eadd6
+1661	3131	6758998369986093	DateBase_Implementation.exe	e1fe300d7a5087f5
